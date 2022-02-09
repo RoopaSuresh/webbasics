@@ -1,0 +1,9 @@
+div{
+    background-color: slategray;
+    height: 300px;
+    width: 200px;
+    margin-left: 200px;
+    margin-top: 250px;
+    /* margin -left, margin-top
+    margin-right, margin -bottom */
+}

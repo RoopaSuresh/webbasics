@@ -1,0 +1,13 @@
+/* tag selector */
+h1{
+    color: salmon;
+}
+/* id selector using # */
+#a1{
+    color: seagreen;
+}
+
+/* class selector using . */
+.a2{
+    color: slategray;
+}

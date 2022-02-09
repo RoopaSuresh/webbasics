@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+div{
+    width: 19%;
+    color: white;
+    float: left;
+    padding-left: 10px;
+}
+div div{
+    background-color: yellow;
+    width: 140px;
+    height: 20px;
+    color: black;
+    text-align: center;
+    border: white 2px solid;
+}
+img{
+    width: 80%;
+    height: 198px;
+}

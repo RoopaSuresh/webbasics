@@ -1,0 +1,39 @@
+/* width is given in percenytage so that it gets minimised with the window, without the content getting hidden */
+/* no need to specify height in percentage as it would always be in default size
+
+/* padding is used to give space inside the div box  */
+
+
+
+d{
+    width: 50%;
+    height: 300px;
+    background-color: black;
+}
+p{
+    color: red;
+}
+
+
+/* descendant selector - div p */
+
+div{
+    width: 50%;
+    height: 300px;
+    background-color: black;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+div p{
+    color: blue;
+}
+
+/* text align is used to align text to center, left, start, end etc */
+div h1{
+    color: purple;
+    text-align: center;
+}
+
+h1{
+    text-align: end;
+}

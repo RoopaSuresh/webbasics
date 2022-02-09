@@ -1,0 +1,27 @@
+h1{
+    color: #d19e13;
+}
+
+#a1{
+    color: rgb(131, 184, 101);
+}
+
+
+.a2{
+color: hsl(265, 67%, 49%);
+}
+
+div{
+    background-color: khaki;
+    height: 200px;
+    width: 300px;
+    border: red 2px solid;
+
+}
+#qw{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin-left: 400px;
+    margin-top: -202px;
+}

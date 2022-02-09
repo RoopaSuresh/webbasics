@@ -1,0 +1,31 @@
+div{
+    width: 50%;
+    height: 200px;
+}
+
+
+div{
+    background-color: black;
+}
+h1{
+    color: red;
+}
+p{
+    color: violet;
+}
+div h1{
+    color: white;
+}
+div p{
+    color: yellow;
+}
+h1{
+    text-align: center;
+}
+div h1{
+    text-align: left;
+}
+div{
+    padding-left: 100px;
+    padding-right: 100px;
+}

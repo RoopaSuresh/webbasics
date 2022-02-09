@@ -1,0 +1,32 @@
+.row{
+    width: 50%;
+    height: 500px;
+    background-color: aqua;
+    position: relative;
+}
+.col{
+    width: 100px;
+    height: 200px;
+    border: black 2px solid;
+
+}
+.col1{
+    position: absolute;
+    background-color: blanchedalmond;
+    left: 5px;
+}
+.col2{
+    position: absolute;
+    background-color: coral;
+    left: 105px;
+}
+.col3{
+    position: absolute;
+    background-color: darkcyan;
+    left: 205px;
+}
+.col4{
+    position: absolute;
+    background-color: darkgreen;
+    left: 305px;
+}

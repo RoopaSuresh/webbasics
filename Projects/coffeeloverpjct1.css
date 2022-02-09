@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Aclonica&family=Comforter+Brush&family=Holtwood+One+SC&family=Homemade+Apple&family=Licorice&family=Lora:ital@1&family=Monoton&family=Pacifico&family=Padauk&family=Pushster&family=Satisfy&family=Shizuru&family=Yuji+Hentaigana+Akebono&display=swap');
+body{
+    background-color: #d4af7f;
+}
+.main2{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+.main{
+    font-family: 'Abril Fatface', cursive;
+text-align: center;
+font-size: xx-large;
+}
+.a2{
+    background-color: rgb(212, 140, 88);
+    position: sticky;
+    top: 0px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    position: sticky;
+    top: 0px;
+}
+.a3{
+    margin-top: -14px;
+    margin-left: 235px;
+}
+.a2{
+    position: sticky;
+top: 0px;
+}
+.a4{
+    width: 167px;
+    height: 629px;
+    background-color: #a6893a;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 0px;
+    padding: 5px;
+}
+.row1{
+width: 1502px;
+height: 289px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+div div img{
+    width: 143px;
+    height: 158px;
+    padding: 10px;
+    margin-left: 19px;
+}
+h3{
+text-align: center;
+}
+p{
+padding-left: 20px;
+}
+.form{
+background-color: #dba67f;
+    width: 294px;
+    height: 196px;
+    margin-top: 53px;
+    margin-left: 603px;
+    padding: 20px;
+    border: black 1px solid;
+}
+input{
+    width: 90%;
+    padding-left: 20px;
+}
+textarea{
+    width: 285px;
+    height: 86px;
+}
+button{
+    margin-top: 15px;
+    margin-left: 113px;
+    background-color: #c9bda9;
+    border-radius: 10px;
+}
+.footer{
+    width: 1505px;
+    height: 300px;
+    background-color: #d4a155;
+    display: flex;
+    justify-content: space-evenly;
+}
+.email{
+    width: 100px;
+    height: 100px;
+}
+.col{
+    width: 209px;
+    height: 300px;
+}
+.hola{
+    margin-top: -47px;
+    margin-left: 118px;
+    font-family: 'Aclonica', sans-serif;
+    font-size: xx-large;
+}
+.logo{
+    position: sticky;
+    top: 0px;
+    width: 85px;
+    height: 49px;
+}
+.black{
+margin-top: 1px;
+margin-left: 1px;
+}
+.latte{
+margin-top: 1px;
+margin-left: 2px;
+}
+.cappuccino{
+    margin-top: 1px;
+    margin-left: 1px;      
+}
+.americano{
+    margin-top: 1px;
+margin-left: 1px;
+}
+.espresso{
+    margin-top: 2px;
+margin-left: 2px;
+}
+.mocha{
+    margin-top: 2px;
+margin-left: 1px;
+}
+.macchiatto{
+    margin-top: 2px;
+margin-left: 1px;
+}
+.irish{
+    margin-top: 3px;
+margin-left: 1px;
+}
+.subscribe{
+    margin-top: 13px;
+    margin-left: 72px;
+    border-radius: 10px;
+}
+.gallery{
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: xx-large;
+}
+.ga{
+    background-color: gray;
+
+    width: 1508px;
+    height: 281px;
+    margin-top: 73px;
+    margin-left: -4px;
+}
+.quote{
+    font-family: 'Pushster', cursive;
+    color: black;
+    font-size: xx-large;
+}
+.para{
+    font-family: 'Lora', serif;
+    color: #0a0a0a;
+    font-size: x-large;
+
+}
+.p1{
+    font-family: 'Padauk', sans-serif;
+}
+.typpi{
+    font-family: 'Satisfy', cursive;
+font-size: xx-large;
+background-color: #a18d42;
+text-align: center;
+border-radius: 10px;
+}

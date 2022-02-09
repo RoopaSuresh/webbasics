@@ -1,0 +1,13 @@
+div{
+    width: 23%;
+    background-color: gray;
+    float: left;
+    /* float command instead of margin left */
+    border: black 2px solid;
+}
+
+img{
+    width: 100%;
+    height: 50%;
+    border-radius: 50px;
+}

@@ -1,0 +1,12 @@
+h1{
+    color: #4f3a39;
+}
+body{
+    background-color: rgb(182, 207, 45);
+}
+div{
+    background-color: yellow;
+    height: 300px;
+    width: 800px;
+    border: black 2px solid;
+}

@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&family=Shizuru&display=swap');
+
+h1{
+    font-family: 'Pushster', cursive;
+}
+p{
+    font-family: 'Shizuru', cursive;
+    font-size: larger;
+}
+body{
+    background-image: url(./images/blackwidow.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+body{
+    background-image: url(./images/foodbckgnd.jpg);
+    background-size: cover;
+}

@@ -1,0 +1,17 @@
+div{
+    width: 23%;
+    background-color: burlywood;
+    float: left;
+    border: black 2px solid;
+}
+img{
+    width: 100%;
+    height: 290px;
+}
+
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+.row{
+    width: 700px;
+    height: 600px;
+    background-color: aqua;
+    display: flex;
+    /* justify-content: space-between; */
+/* justify-content: space-evenly; */
+align-items: center;
+justify-content: space-around;
+}
+.col{
+    width: 150px;
+    height: 200px;
+
+}
+.col1{
+    background-color: blueviolet;
+}
+.col2{
+    background-color: brown;
+}
+.col3{
+    background-color: burlywood;
+}
+.col4{
+background-color: chartreuse;}

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Licorice&family=Shizuru&family=Yuji+Hentaigana+Akebono&display=swap');
+h1{
+    font-family: 'Licorice', cursive;
+    font-size: small;
+}
+div{
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+    font-size: xx-large;
+}
+body{
+    background-image: url(./images/harry\ potter.jpg);
+    background-repeat: no-repeat;
+}

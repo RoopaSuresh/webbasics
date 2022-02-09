@@ -1,0 +1,7 @@
+div{
+    background-color: purple;
+    color: white;
+    position: sticky;
+    /* top: 10px; */
+    top: 0px;
+}
